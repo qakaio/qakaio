@@ -31,14 +31,11 @@ They reach me while I am inside my room so they can torture me. Sometimes they u
 I'm afraid that some female friends of mine from the past are going
 through the same and they even blackmail them so they can sexually harass them. They also mess with your head and manipulate you to shut up about everything, and they show fear every time I overshare that.
 
-In the past 2 years, a lot of people tried to harm me in different ways, since my personal information became public after a hard breakup that was overshared around as gossip.
-
 Some people have created so much resentment that they have gone far beyond what a normal human being should go for because of that, using vengeance as an excuse. From harmless jokes to burning your image in front of others to actual homicide attempts, I am slowly updating this document with everything that I have about them since I am not the only one suffering because of these people.
 
 ### The sexual harassment situation
 
-Some people reach me every day asking me to touch myself or join me in the bath to say shit to me. They also dirty talk and do other shit while I am sleeping, and expose female friends of mine while doing that, using
-their names and exposing their life in the middle of this.
+Some people reach me every day asking me to touch myself or join me in the bath to say shit to me. They also dirty talk and do other shit while I am sleeping, and expose female friends of mine while doing that, using their names and exposing their life in the middle of this.
     
 ### My main concern
 
@@ -46,7 +43,7 @@ They can make me unable to think, <b>by applying a weird amount of pressure on d
 There's also a solidified gland inside both sides of my jaw, and on some points of my spine, just like the nerve behind my neck.
 They also use this shitty version of me as an argument, since I am under this kind of pressure I act crazy in front of people, friends of mine can't recognize me anymore and get involved in the middle of this crossfire.
     
-They make me unable to think, it got to the point of involving my daughter and also putting friends of mine in danger, and even involving drug dealers. Some people know the truth but are just afraid to talk about it since it comes to this point.
+They make me unable to think, it got to the point of involving my daughter and also putting friends of mine in danger. Some people know the truth but are just afraid to talk about it since it comes to this point.
 
 ### The fake image in front of people's situation
 

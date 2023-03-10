@@ -12,7 +12,7 @@ with, but that started because they started a fight that has nothing to do with 
 
 Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. 
 If you know what I am talking about, please keep reading until the end.
-Please find someone trustworthy to confirm everything below if necessary. <b><p class="pinktext">You can save a few human lives, trust me.</b></p>
+Please find someone trustworthy to confirm everything below if necessary. <b>You can save a few human lives, trust me.</b>
 
 Don't trust any family member of mine, they will lie to you that I'm fine, 
 so they can keep doing the same shit over and over again.
@@ -29,7 +29,7 @@ https://kaiorampz.github.io
 https://linkedin.com/in/kaiogarcia
 
 
-I am being tortured, and I am not the only one in my social circle.
+### I am being tortured, and I am not the only one in my social circle.
 They reach me while I am inside my room so they can torture me. Sometimes they use that as a way of giving orders and taking control of my life.
 
 I'm afraid that some female friends of mine from the past are going

@@ -6,10 +6,6 @@
 
 <hr>
 
-On 07/03/2023, after a long conversation with people bragging about the situation below, 
-they threatened to death by comingo to my apartment to literally shot me. I am not sure who I am dealing
-with, but that started because they started a fight that has nothing to do with me.
-
 Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. 
 If you know what I am talking about, please keep reading until the end.
 Please find someone trustworthy to confirm everything below if necessary. <b>You can save a few human lives, trust me.</b>

@@ -6,59 +6,37 @@
 
 <hr>
 
-<html>
-<head><title>Sexual Harassment and Homicide attempts</title>
-<link rel="stylesheet" href="style.css">
+On 07/03/2023, after a long conversation with people bragging about the situation below, 
+they threatened to death by comingo to my apartment to literally shot me. I am not sure who I am dealing
+with, but that started because they started a fight that has nothing to do with me.
 
-<script async="" src="//static.getclicky.com/101398671.js"></script>
-<script src="chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js"></script>
+Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. 
+If you know what I am talking about, please keep reading until the end.
+Please find someone trustworthy to confirm everything below if necessary. <b><p class="pinktext">You can save a few human lives, trust me.</b></p>
+
+Don't trust any family member of mine, they will lie to you that I'm fine, 
+so they can keep doing the same shit over and over again.
+    
+I've become some sort of meme after a hard breakup that was overshared around as gossip. 
+Now I want to expose this situation since I'm pretty sure there are friends of mine suffering 
+and we just don't know how to deal with this.
+    
+If you were able to understand this and you have any suggestions on how to deal 
+with this situation or who we can ask for help, please reach me:<br>
+kaioricardogarcia@gmail.com
+IG: @kaio.asmodevs
+https://kaiorampz.github.io
+https://linkedin.com/in/kaiogarcia
 
 
-</head>
-<body data-new-gr-c-s-check-loaded="14.1097.0" data-gr-ext-installed="">
-<div class="divmobile">
-<br>
-<p class="bluetext">On 07/03/2023, after a long conversation with people bragging about the situation below, 
-    they threatened to death by comingo to my apartment to literally shot me. I am not sure who I am dealing
-    with, but that started because they started a fight that has nothing to do with me.
+I am being tortured, and I am not the only one in my social circle.
+They reach me while I am inside my room so they can torture me. Sometimes they use that as a way of giving orders and taking control of my life.
 
-    Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. 
-    If you know what I am talking about, please keep reading until the end.
-    Please find someone trustworthy to confirm everything below if necessary. <b><p class="pinktext">You can save a few human lives, trust me.</b></p>
-<p class="bluetext">
-    Don't trust any family member of mine, they will lie to you that I'm fine, 
-    so they can keep doing the same shit over and over again.
-    
-    I've become some sort of meme after a hard breakup that was overshared around as gossip. 
-    Now I want to expose this situation since I'm pretty sure there are friends of mine suffering 
-    and we just don't know how to deal with this.
-    
-    If you were able to understand this and you have any suggestions on how to deal 
-    with this situation or who we can ask for help, please reach me:<br>
-    <br>
-    kaioricardogarcia@gmail.com
-    <br>
-    IG: @kaio.asmodevs
-    <br>
-    https://kaiorampz.github.io
-    <br>
-    https://linkedin.com/in/kaiogarcia
-</p>
-<br>
-<p class="pinktext">
-    I am being tortured, and I am not the only one in my social circle.
-    They reach me while I am inside my room so they can torture me. Sometimes they use that as a way of giving orders and taking control of my life.
-    </p>
-    
-    <p class="bluetext">
-    I'm afraid that some female friends of mine from the past are going
-    through the same and they even blackmail them so they can sexually harass them. They also mess with your head and manipulate you to shut up about everything, and they show fear every time I overshare that.
-    </p>
-    
-    <p class="pinktext">
-    In the past 2 years, a lot of people tried to harm me in different ways, since my personal information became public after a hard breakup that was overshared around as gossip.
-    </p>
-    
+I'm afraid that some female friends of mine from the past are going
+through the same and they even blackmail them so they can sexually harass them. They also mess with your head and manipulate you to shut up about everything, and they show fear every time I overshare that.
+
+In the past 2 years, a lot of people tried to harm me in different ways, since my personal information became public after a hard breakup that was overshared around as gossip.
+
     <p class="bluetext">
     Some people have created so much resentment that they have gone far beyond what a normal human being should go for because of that, using vengeance as an excuse. From harmless jokes to burning your image in front of others to actual homicide attempts, I am slowly updating this document with everything that I have about them since I am not the only one suffering because of these people.
     </p>

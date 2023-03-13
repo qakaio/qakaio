@@ -1,6 +1,7 @@
-https://kaiorampz.github.io/sos 🔴
-https://kaiorampz.github.io/sos 🔴
-https://kaiorampz.github.io/sos 🔴
+### https://kaiorampz.github.io/sos 🔴
+### https://kaiorampz.github.io/sos 🔴
+### https://kaiorampz.github.io/sos 🔴
+
 Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. If you know what I am talking about, please keep reading until the end. Please find someone trustworthy to confirm everything below if necessary. You can save a few human lives, trust me.
 
 Don't trust any family member of mine, they will lie to you that I'm fine, so they can keep doing the same shit over and over again.
@@ -8,7 +9,10 @@ Don't trust any family member of mine, they will lie to you that I'm fine, so th
 I've become some sort of meme after a hard breakup that was overshared around as gossip. Now I want to expose this situation since I'm pretty sure there are friends of mine suffering and we just don't know how to deal with this.
 
 If you were able to understand this and you have any suggestions on how to deal with this situation or who we can ask for help, please reach me:
-kaioricardogarcia@gmail.com IG: @kaio.asmodevs https://kaiorampz.github.io https://linkedin.com/in/kaiogarcia
+kaioricardogarcia@gmail.com IG: 
+@kaio.asmodevs  
+https://kaiorampz.github.io  
+https://linkedin.com/in/kaiogarcia  
 
 I am being tortured, and I am not the only one in my social circle.
 They reach me while I am inside my room so they can torture me. Sometimes they use that as a way of giving orders and taking control of my life.

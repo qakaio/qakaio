@@ -19,7 +19,7 @@
 <hr>
 
 <div>
-  <h2 class="centertxt bluetxt title">OI, TUDO BOM? 🦄</h2>
+  <h2 style="color:blue">OI, TUDO BOM? 🦄</h2>
   <pre class="centertxt bluetxt regulartxt">  My name is <b>Kaio</b>. I live in Brazil and work as a software tester. I also like to create my own games and 2D art, mainly pixel art and animation
   Usually I am busy playing a new instrument, having a beer, watching youtube tutorials, or maybe trying to cook a random recipe that I saw online 🍺🍖
   I was a hardcore gamer once but nowadays I am trying my best to appreciate everything else life has to offer other than <b>"the internet"</b>🌈

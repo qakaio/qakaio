@@ -12,5 +12,3 @@ Contact me: kaioricardogarcia@gmail.com 🙂
 LinkedIn: https://www.linkedin.com/in/kaiogarcia/ 🪐  
 Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me 🤖</a>  
 </p>
-
-<img align="center" src="https://kaiorampz.github.io/img/TY5TiV6.gif">

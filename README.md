@@ -1,21 +1,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>
 
-I've become some sort of meme after a weird past about my neighboorhood, due to the amount of exposition now my life is in danger. There are friends of mine suffering too just because they are related to me, and we just don't know how to deal with this situation. You can save a few human lives, trust me. There's some sort of conspiration going on where people are cleary chasing me around and sending me death threats that I am too afraid to overshare because of the consequences, so I feel for the worse anytime soon, since I can't barely eat after this situation started.
+### https://kaiorampz.github.io/sos 🔴
+### https://kaiorampz.github.io/sos 🔴
+### https://kaiorampz.github.io/sos 🔴
 
-Don't trust any family member of mine, they will lie to you since they are involved. They will say I am just fine.
+Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. If you know what I am talking about, please keep reading until the end. Please find someone trustworthy to confirm everything below if necessary. You can save a few human lives, trust me.
+
+Don't trust any family member of mine, they will lie to you that I'm fine, so they can keep doing the same shit over and over again.
+
+I've become some sort of meme after a hard breakup that was overshared around as gossip. Now I want to expose this situation since I'm pretty sure there are friends of mine suffering and we just don't know how to deal with this.
 
 If you were able to understand this and you have any suggestions on how to deal with this situation or who we can ask for help, please reach me:
-kaioricardogarcia@gmail.com  
-IG: @kaio.asmodevs  
+kaioricardogarcia@gmail.com IG: 
+@kaio.asmodevs  
 https://kaiorampz.github.io  
 https://linkedin.com/in/kaiogarcia  
 
-I tried to ask for help in different ways, without actually saying their names or suggesting where they live, but everyone just take me as a paranoid weird person, since the way I am being treated changed my personality entirely and no one can barely recognize me or trust me.
-
 I am being tortured, and I am not the only one in my social circle.
-They reach me while I am inside my room so they can torture me. I'm afraid that some female friends of mine from the past are going through the same and they even blackmail them so they can sexually harass them. They also mess with your head and manipulate you to shut up about everything, and they show fear every time I talk about telling someone about my situation.
+They reach me while I am inside my room so they can torture me. Sometimes they use that as a way of giving orders and taking control of my life.
 
-I knew those people from the past, but they created so much resentment that they have gone far beyond what a normal human being should go, using vengeance as an excuse. From harmless jokes to burning your image in front of others and even actual homicide attempts inside my own flat.
+I'm afraid that some female friends of mine from the past are going through the same and they even blackmail them so they can sexually harass them. They also mess with your head and manipulate you to shut up about everything, and they show fear every time I overshare that.
+
+Some people have created so much resentment that they have gone far beyond what a normal human being should go for because of that, using vengeance as an excuse. From harmless jokes to burning your image in front of others to actual homicide attempts, I am slowly updating this document with everything that I have about them since I am not the only one suffering because of these people.
 
 ### The sexual harassment situation
 Some people reach me every day asking me to touch myself or join me in the bath to say shit to me. They also dirty talk and do other shit while I am sleeping, and expose female friends of mine while doing that, using their names and exposing their life in the middle of this.

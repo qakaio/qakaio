@@ -1,10 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>
 
-### https://kaiorampz.github.io/sos 🔴
-### https://kaiorampz.github.io/sos 🔴
-### https://kaiorampz.github.io/sos 🔴
+### I don't know who I should ask for help, you can save a few human lives.
 
-Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. If you know what I am talking about, please keep reading until the end. Please find someone trustworthy to confirm everything below if necessary. You can save a few human lives, trust me.
+Two years ago, I noticed that people from the entire world can talk to me from any distance, like telepathy. If you know what I am talking about, please keep reading until the end. Please find someone trustworthy to confirm everything below if necessary.
 
 Don't trust any family member of mine, they will lie to you that I'm fine, so they can keep doing the same shit over and over again.
 

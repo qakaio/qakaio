@@ -5,7 +5,7 @@ I've become some sort of meme after a weird past about my neighboorhood, due to 
 Don't trust any family member of mine, they will lie to you since they are involved. They will say I am just fine.
 
 If you were able to understand this and you have any suggestions on how to deal with this situation or who we can ask for help, please reach me:
-kaioricardogarcia@gmail.com IG: 
+kaioricardogarcia@gmail.com IG:  
 @kaio.asmodevs  
 https://kaiorampz.github.io  
 https://linkedin.com/in/kaiogarcia  

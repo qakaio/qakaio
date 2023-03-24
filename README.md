@@ -9,8 +9,8 @@ Don't trust any family member of mine, they will lie to you that I'm fine, so th
 I've become some sort of meme after a hard breakup that was overshared around as gossip. Now I want to expose this situation since I'm pretty sure there are friends of mine suffering and we just don't know how to deal with this.
 
 If you were able to understand this and you have any suggestions on how to deal with this situation or who we can ask for help, please reach me:
-kaioricardogarcia@gmail.com IG: 
-@kaio.asmodevs  
+kaioricardogarcia@gmail.com  
+IG: @kaio.asmodevs  
 https://kaiorampz.github.io  
 https://linkedin.com/in/kaiogarcia  
 

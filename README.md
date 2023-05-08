@@ -9,7 +9,7 @@ I also like to create my own games and 2D art, mainly pixel art and animation. U
 
 I was a <b>hardcore</b> gamer once but nowadays I am trying my best to appreciate everything else life has to offer other than <b>"the internet"</b> 🌈   
 
-Contact me: kaioricardogarcia@gmail.com 🙂  
+Contact me: kaiorampz@gmail.com 🙂  
 LinkedIn: https://www.linkedin.com/in/kaiogarcia/ 🪐  
 Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me 🤖</a>  
 </p>

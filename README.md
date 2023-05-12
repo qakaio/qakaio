@@ -24,3 +24,9 @@ https://kaiorampz.github.io/upwork
 <img src="upwork.png"></img>
 
 </p>
+<h1 align="center">Web automation scripts 💻</h1>
+<p>
+Here's some web automation scripts using mostly cypress
+
+https://github.com/kaiorampz/QA-Portfolio
+

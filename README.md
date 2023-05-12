@@ -18,7 +18,7 @@ Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me
 <hr>
 <h1 align="center">A little bit of my work as a QA 💻</h1>
 <p>
-I have 900+ of freelancing work using Upwork, you can check my profile below:
+I have 900+ hours of freelancing work using Upwork, you can check my profile below:
 https://kaiorampz.github.io/upwork
   
 <img src="upwork.png"></img>

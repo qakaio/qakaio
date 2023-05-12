@@ -20,4 +20,7 @@ Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me
 <p>
 I have 900+ of freelancing work using Upwork, you can check my profile below:
 https://kaiorampz.github.io/upwork
+  
 <img src="upwork.png"></img>
+
+</p>

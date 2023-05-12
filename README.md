@@ -15,3 +15,5 @@ Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>
+<hr>
+<h1 align="center">A little bit of my work as a QA 💻</h1>

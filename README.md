@@ -7,7 +7,7 @@ Quality assurance with more than 9 years of experience and complete knowledge of
 
 I also like to create my own games and 2D art, mainly pixel art and animation. Usually, I am busy playing a new instrument, having a beer, watching YouTube tutorials, or maybe trying to cook a random recipe that I saw online. 🍺 🍖
 
-I was a <b>hardcore</b> gamer once, but nowadays, I am trying my best to appreciate everything else life has to offer other than <b>"the internet"</b>. 🌈   
+I was a <b>hardcore</b> gamer once, but now, I am trying my best to appreciate everything else life has to offer other than <b>"the internet"</b>. 🌈   
 
 Contact me: kaiorampz@gmail.com 🙂  
 LinkedIn: https://www.linkedin.com/in/kaiogarcia/ 🪐  

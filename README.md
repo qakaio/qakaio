@@ -25,7 +25,7 @@ https://qakaio.github.io/upwork
 <img src="upwork.png"></img>
 
 </p>
-<h1 align="center">Web automation scripts 💻</h1>
+<h1 align="center">Web automation scripts 💻 (Work In Progress) </h1>
 <p>
 Here's some web automation scripts using mostly cypress:
 

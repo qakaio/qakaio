@@ -11,7 +11,7 @@ I was a <b>hardcore</b> gamer once, but now, I am trying my best to appreciate e
 
 Contact me: kaioqa@protonmail.com 🙂  
 LinkedIn: https://www.linkedin.com/in/kaioqa/ 🪐  
-Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me 🤖</a>  
+Upwork: <a href="https://www.upwork.com/freelancers/~012883d8474aaab92f">Hire me</a> 🤖
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>

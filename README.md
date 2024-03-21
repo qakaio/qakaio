@@ -27,7 +27,7 @@ https://qakaio.github.io/upwork
 </p>
 <h1 align="center">Web automation scripts 💻 (Work In Progress) </h1>
 <p>
-Here's some web automation scripts using mostly cypress:
-
+I'm starting this repository to showcase some automation scripts that I've been working lately
+Work in progress
 https://github.com/qakaio/QA-Portfolio
 

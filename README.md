@@ -31,6 +31,6 @@ I'm starting this repository to showcase some automation scripts that I've been 
 
 Work in progress
 
-https://github.com/qakaio/QA-Portfolio
+https://github.com/qakaio/Kaio-QA-portfolio
 </p>
 

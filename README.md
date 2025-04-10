@@ -25,11 +25,9 @@ https://qakaio.github.io/upwork
 <img src="upwork.png"></img>
 
 </p>
-<h1 align="center">Web automation scripts 💻 (Work In Progress) </h1>
+<h1 align="center">Web automation scripts 💻 </h1>
 <p>
 I'm starting this repository to showcase some automation scripts that I've been working lately.
-
-Work in progress
 
 https://github.com/qakaio/Kaio-QA-portfolio
 </p>

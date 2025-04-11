@@ -1,7 +1,7 @@
 <h1 align="center">Oi, tudo bom? 💙</h1>
 
 <p>
-My name is Kaio, and I am trying to change how software testing is done.
+My name is Kaio, and I am trying to change how software testing is done. 🚀
 
 Quality assurance with more than 9 years of experience and complete knowledge of the entire software development life cycle, with a passion for finding bugs and delivering an excellent quality product to the end user. 💙
 

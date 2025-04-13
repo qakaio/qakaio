@@ -29,6 +29,8 @@ https://qakaio.github.io/upwork
 <p>
 I'm starting this repository to showcase some automation scripts that I've been working lately.
 
-https://github.com/qakaio/Kaio-QA-portfolio
+https://github.com/qakaio/Kaio-QA-portfolio-selenium
+
+https://github.com/qakaio/Kaio-QA-portfolio-playwright
 </p>
 

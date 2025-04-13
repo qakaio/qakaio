@@ -27,7 +27,7 @@ https://qakaio.github.io/upwork
 </p>
 <h1 align="center">Web automation scripts 💻 </h1>
 <p>
-I'm starting this repository to showcase some automation scripts that I've been working lately.
+Below you can find my repositories that I use to showcase some automation scripts that I've been working lately.
 
 https://github.com/qakaio/Kaio-QA-portfolio-selenium
 

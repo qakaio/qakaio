@@ -1,9 +1,9 @@
 <h1 align="center">Oi, tudo bom? 💙</h1>
 
 <p>
-My name is Kaio, and I am trying to change how software testing is done. 🚀
+My name is Kaio, and I am passionate about quality as a mindset, not just a phase.
 
-Quality assurance with more than 10 years of experience and complete knowledge of the entire software development life cycle, with a passion for finding bugs and delivering an excellent quality product to the end user. 💙
+QA Engineer with 10+ years of experience and complete knowledge of the entire software development life cycle, with a passion for finding bugs and delivering an excellent quality product to the end user. 💙
 
 I also like to create my own games and 2D art, mainly pixel art and animation. Usually, I am busy playing a new instrument, playing games, watching YouTube tutorials, or maybe trying to cook a random recipe that I saw online. 🎮 🍖
 

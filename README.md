@@ -1,7 +1,7 @@
 <h1 align="center">Oi, tudo bom? 💙</h1>
 
 <p>
-My name is Kaio, and I am deeply committed about quality as a mindset, not just a phase.
+My name is Kaio, and I am deeply committed to quality as a mindset, not just a phase.
 
 QA Engineer with 10+ years of experience and complete knowledge of the entire software development life cycle, with a passion for finding bugs and delivering an excellent quality product to the end user. 💙
 

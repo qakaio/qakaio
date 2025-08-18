@@ -26,15 +26,15 @@ https://qakaio.github.io/upwork
 </p>
 <h1 align="center">Test Automation - Portfolio 💻 </h1>
 <p>
-This project is a complete automation test suite using Selenium and Javascript, targeting the SauceDemo e-commerce demo site.
+A complete automation test suite using Selenium + JavaScript, targeting the SauceDemo e-commerce demo site.
   
 https://github.com/qakaio/Kaio-QA-portfolio-selenium
 <hr>
-This project contains a complete automated test suite using Playwright with JavaScript, covering all 26 official Test Cases from the AutomationExercise website.
+Automated test suite with Playwright + JavaScript, covering all 26 AutomationExercise test cases.
   
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>
-This project demonstrates API testing using Playwright + TypeScript with the public JSONPlaceholder API.
+Demonstrating API testing with Playwright + TypeScript using the public JSONPlaceholder API.
 
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 </p>

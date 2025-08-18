@@ -22,7 +22,7 @@ I have 900+ hours as a freelancer on Upwork, you can check my profile below:
 https://qakaio.github.io/upwork
   
 <img src="upwork.png"></img>
-
+<hr>
 </p>
 <h1 align="center">Test Automation - Portfolio 💻 </h1>
 <p>

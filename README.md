@@ -27,7 +27,6 @@ https://qakaio.github.io/upwork
 <h1 align="center">Web automation scripts 💻 </h1>
 <p>
 <h2>Below you can find my repositories that I use to showcase some automation scripts that I've been working lately.</h2>
-<hr>
 This project is a complete automation test suite using Selenium and Javascript, targeting the SauceDemo e-commerce demo site.
   
 https://github.com/qakaio/Kaio-QA-portfolio-selenium

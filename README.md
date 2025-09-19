@@ -30,7 +30,7 @@ https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 </p>
 <hr>
 <p>
-I have 900+ hours as a freelancer on Upwork, you can check my profile below:
+I have 900+ hours as a QA freelancer on Upwork. You can check my profile below:
 
 https://qakaio.github.io/upwork
   

@@ -29,7 +29,6 @@ Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 </p>
 <hr>
-<h1 align="center">A little bit of my work as a QA 💻</h1>
 <p>
 I have 900+ hours as a freelancer on Upwork, you can check my profile below:
 

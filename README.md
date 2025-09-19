@@ -14,16 +14,6 @@ LinkedIn: https://www.linkedin.com/in/kaioqa/ 🪐
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>
-<hr>
-<h1 align="center">A little bit of my work as a QA 💻</h1>
-<p>
-I have 900+ hours as a freelancer on Upwork, you can check my profile below:
-
-https://qakaio.github.io/upwork
-  
-<img src="upwork.png"></img>
-<hr>
-</p>
 <h1 align="center">Test Automation - Portfolio 💻 </h1>
 <p>
 A complete automation test suite using <b>Selenium + JavaScript</b>, targeting the SauceDemo e-commerce demo site.
@@ -38,4 +28,15 @@ Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b>
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 </p>
+<hr>
+<h1 align="center">A little bit of my work as a QA 💻</h1>
+<p>
+I have 900+ hours as a freelancer on Upwork, you can check my profile below:
+
+https://qakaio.github.io/upwork
+  
+<img src="upwork.png"></img>
+<hr>
+</p>
+
 

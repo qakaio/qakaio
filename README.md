@@ -27,6 +27,7 @@ https://github.com/qakaio/Kaio-QA-portfolio-playwright
 Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b> using the public JSONPlaceholder API.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
-</p>
-
-
+<hr>
+Performance testing and reports using <b>JMeter</b> to evaluate API and web application responsiveness, stability, and scalability under load.
+<br>
+https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter

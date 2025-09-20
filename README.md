@@ -21,7 +21,7 @@ A complete automation test suite using <b>Selenium + JavaScript</b>, targeting t
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-selenium
 <hr>
-<h3>Playwright + JavaScript</h3>
+<h3>Playwright + JavaScript and CI/CD</h3>
 Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Actions</b>, covering all 26 AutomationExercise test cases.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright

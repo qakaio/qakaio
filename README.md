@@ -31,7 +31,7 @@ Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b>
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 <hr>
-<h3>JMeter</h3>
+<h3>Performance testing - JMeter</h3>
 Performance testing and reports using <b>JMeter</b> to evaluate API and web application responsiveness, stability, and scalability under load.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter

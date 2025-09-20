@@ -16,19 +16,22 @@ LinkedIn: https://www.linkedin.com/in/kaioqa/ 🪐
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiorampz" alt="kaiorampz" /> </p>
 <h1 align="center">Test Automation - Portfolio 💻 </h1>
 <p>
+<h3>Selenium + JavaScript</h3>
 A complete automation test suite using <b>Selenium + JavaScript</b>, targeting the SauceDemo e-commerce demo site.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-selenium
 <hr>
+<h3>Playwright + JavaScript</h3>
 Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Actions</b>, covering all 26 AutomationExercise test cases.
 <br>
-<h3>Selenium</h3>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>
+<h3>API testing - Playwright + JavaScript and Postman</h3>
 Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b> using the public JSONPlaceholder API.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 <hr>
+<h3>JMeter</h3>
 Performance testing and reports using <b>JMeter</b> to evaluate API and web application responsiveness, stability, and scalability under load.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter

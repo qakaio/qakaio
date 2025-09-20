@@ -22,6 +22,7 @@ https://github.com/qakaio/Kaio-QA-portfolio-selenium
 <hr>
 Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Actions</b>, covering all 26 AutomationExercise test cases.
 <br>
+<h5>Selenium</h5>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>
 Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b> using the public JSONPlaceholder API.

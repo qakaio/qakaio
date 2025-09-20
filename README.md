@@ -26,7 +26,7 @@ Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Acti
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>
-<h3>API testing - Playwright + JavaScript and Postman</h3>
+<h3>API testing - Playwright + Typescript and Postman</h3>
 Demonstrating API testing with <b>Postman</b> and <b>Playwright + TypeScript</b> using the public JSONPlaceholder API.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-API-testing

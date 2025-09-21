@@ -36,7 +36,7 @@ Performance testing and reports using <b>JMeter</b> to evaluate API and web appl
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter
 <hr>
-<h3>Pentest - SQL Injection - DVWA + Python and XAMPP</h3>
+<h3>Pentest - SQL Injection - DVWA + XAMPP</h3>
 Documented and executed a SQL Injection PoC against a DVWA local lab
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection

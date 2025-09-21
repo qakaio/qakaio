@@ -35,3 +35,8 @@ https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 Performance testing and reports using <b>JMeter</b> to evaluate API and web application responsiveness, stability, and scalability under load.
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter
+<hr>
+<h3>Pentest - SQL Injection - XAMPP + DVWA</h3>
+Documented and executed a SQL Injection PoC against a DVWA local lab
+<br>
+https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection

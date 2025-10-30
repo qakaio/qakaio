@@ -5,7 +5,7 @@ My name is Kaio, and I am deeply committed to quality as a mindset, not just a p
 
 QA Engineer with 10+ years of experience and complete knowledge of the entire software development life cycle, with a passion for finding bugs and delivering an excellent quality product to the end user. 💙
 
-I also like to create my own games and 2D art, mainly pixel art and animation. Usually, I am busy playing a new instrument, playing games, watching YouTube tutorials, or maybe trying to cook a random recipe that I saw online. 🎮 🍖
+I also like to create my own games and 2D art, mainly pixel art and animation. Usually, I am busy studying philosophy, psychology, and neuroscience, playing games, watching YouTube tutorials, or maybe trying to cook a random recipe that I saw online. 🎮 🍖
 
 I was a <b>hardcore</b> gamer once, but now, I am trying my best to appreciate everything else life has to offer other than <b>"the internet"</b>. 🌈   
 

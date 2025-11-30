@@ -21,7 +21,7 @@ Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Acti
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>
-<h3>Playwright + Python + Groq - AI Assisted Testing/CD</h3>
+<h3>Playwright + Python + Groq - AI Assisted Testing</h3>
 A production-ready test automation framework using <b>Playwright + Python, and Groq</b> that uses AI to solve real QA problems
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright-AI-testing

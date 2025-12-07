@@ -1,4 +1,4 @@
-<h1 align="center">Oi, tudo bom? 💙</h1>
+<h1 align="center">Oi, tudo bom? 👋</h1>
 
 <p>
 My name is Kaio, and I am deeply committed to quality as a mindset, not just a phase.

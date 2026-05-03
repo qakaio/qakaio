@@ -18,7 +18,6 @@ LinkedIn: https://www.linkedin.com/in/kaioqa/ 🪐
 <p>
 <h3>Playwright + JavaScript and CI/CD</h3>
 Automated test suite with <b>Playwright + JavaScript, and CI/CD with GitHub Actions</b>, covering all 26 AutomationExercise test cases.
-Status: ![Playwright CI/CD](https://github.com/qakaio/Kaio-QA-portfolio-playwright/actions/workflows/playwright.yml/badge.svg)
 <br>
 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 <hr>

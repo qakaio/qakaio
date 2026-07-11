@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaio Garcia
 
 **Staff QA Engineer • Test Automation Architect • Quality Engineering Leader**  
-🎯 **10+ years** building scalable test automation frameworks, CI/CD quality gates, and test strategies that prevent defects instead of just finding them. I'm also the creator of @testersguild, where I guide other QAs through the challenges of professional recognition.
+🎯 **10+ years** building scalable test automation frameworks, CI/CD quality gates, and test strategies that prevent defects instead of just finding them. I'm also the creator of <a src="https://testersguild.github.io">Testers Guild</a>, where I guide other QAs through the challenges of professional recognition.
 
 ---
 

@@ -18,6 +18,15 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
+## 📚 Knowledge Base & Cheatsheets
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Kaio-QA-docs-and-cheatsheets** | Personal collection: Git, Playwright (Web/API), Appium+WebdriverIO | [📁 Repo](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets) |
+| **Portfolio Website** | Live portfolio with all projects, games, and pixel art | [🌐 qakaio.github.io](https://qakaio.github.io) |
+
+---
+
 ## 🛠 Tech Stack & Expertise
 
 | Category | Technologies |
@@ -48,25 +57,12 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
-## 📚 Knowledge Base & Cheatsheets
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| **Kaio-QA-docs-and-cheatsheets** | Personal collection: Git, Playwright (Web/API), Appium+WebdriverIO | [📁 Repo](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets) |
-| **Portfolio Website** | Live portfolio with all projects, games, and pixel art | [🌐 qakaio.github.io](https://qakaio.github.io) |
-
----
-
 ## 🎓 Certifications & Education
 
 | Certification | Provider | Year |
 |---------------|----------|------|
-| **ISTQB Foundation Level (CTFL)** | ISTQB | 2020 |
-| **ISTQB Test Automation Engineering (CT-TAE)** | ISTQB | 2022 |
-| **Certified Agile Tester (CAT)** | Agile Testing Alliance | 2021 |
-| **AWS Cloud Practitioner** | Amazon Web Services | 2023 |
-| **Docker & Kubernetes Fundamentals** | Linux Foundation | 2023 |
-| **Technology Degree in Digital Games Development** | — | 2014 |
+| **Post-Graduation - Neuroscience and Behavior** | FAAP | 2026 |
+| **BTech - Technology Degree in Digital Games Development** | UNIGRANRIO | 2014 |
 
 ---
 

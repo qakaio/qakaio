@@ -7,7 +7,7 @@
 
 ## 🎯 What I Do
 
-> **"Quality is not an act, it's a habit. My mission: make quality everyone's responsibility, not just QA's."**
+> **"Quality is not an act, it's a habit. -Aristotle"**
 
 I design and build **scalable test automation architectures** that multiply engineering velocity through:
 - **Framework Architecture** — Playwright, Cypress, Selenium, Appium, WebdriverIO

@@ -85,7 +85,3 @@ I design and build **scalable test automation architectures** that multiply engi
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qakaio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://qakaio.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaioqa@protonmail.com)
-
----
-
-> *"Quality is not an act, it's a habit. My mission: make quality everyone's responsibility, not just QA's."*

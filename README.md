@@ -3,6 +3,8 @@
 **Staff QA Engineer • Test Automation Architect • Quality Engineering Leader**  
 🎯 **10+ years** building scalable test automation frameworks, CI/CD quality gates, and test strategies that prevent defects instead of just finding them. I'm also the creator of <a href="https://nullandvoid.github.io">Null and Void</a>, where I help other QAs navigate the challenges of professional recognition.
 
+🧠 I am currently a postgraduate student in Neuroscience and Behavior, and I aspire to contribute meaningfully to the scientific community following the completion of my doctoral studies.
+
 ---
 
 ## 🎯 What I Do
@@ -23,7 +25,9 @@ I design and build **scalable test automation architectures** that multiply engi
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Kaio-QA-docs-and-cheatsheets** | Personal collection: Git, Playwright (Web/API), Appium+WebdriverIO | [📁 Repo](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets) |
+| **Neuroscience and Behavior study** | Personal collection: Neuroscience, Neurotechnology, Neurorights | [📁 Repo](https://github.com/qakaio/Neuroscience-and-Behavior) |
 | **Portfolio Website** | Live portfolio with all projects, games, and pixel art | [🌐 qakaio.github.io](https://qakaio.github.io) |
+| **Null and Void** | My online open-source QA course | [🌐 nullandvoid.github.io](https://nullandvoid.github.io) |
 
 ---
 

@@ -66,19 +66,6 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
-## 🌍 Languages
-- **Portuguese** — Native
-- **English** — Full Professional Proficiency (C1/C2)
-
----
-
-## 🎯 Open to Opportunities
-
-**Staff QA Engineer • Test Automation Architect • Principal QA Engineer • Senior QA Engineer (IC Track)**  
-📩 **Open to Staff/IC QA roles → DM me** | kaioqa@protonmail.com
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaioqa)

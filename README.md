@@ -57,7 +57,6 @@ I design and build **scalable test automation architectures** that multiply engi
 | **[Selenium](https://github.com/qakaio/Kaio-QA-portfolio-selenium)** | Selenium WebDriver + Mocha/Chai + Page Object Model (SauceDemo) | `JavaScript` `Selenium` `Mocha` | ![Selenium CI](https://github.com/qakaio/Kaio-QA-portfolio-selenium/actions/workflows/selenium.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-selenium/allure-report/) |
 | **[JMeter](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter)** | JMeter load testing with baselines, SLI/SLO, throughput analysis | `JMeter` `XML` `Reports` | ![JMeter CI](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter/actions/workflows/jmeter.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-performance-test-jmeter/allure-report/) |
 | **[Pentest](https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection)** | DVWA SQL Injection pentest: UNION-based, Python PoC, remediation | `Python` `DVWA` `OWASP ZAP` | ![Pentest CI](https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection/actions/workflows/pentest.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-pentest-dvwa-sql-injection/allure-report/) |
-| **[Docs & Cheatsheets](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets)** | Personal QA cheatsheets, frameworks, patterns | `Markdown` `Documentation` | — | 📚 |
 
 ---
 

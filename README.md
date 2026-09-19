@@ -20,17 +20,6 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
-## 📚 Knowledge Base & Cheatsheets
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| **Kaio-QA-docs-and-cheatsheets** | Personal collection: Git, Playwright (Web/API), Appium+WebdriverIO | [📁 Repo](https://github.com/qakaio/Kaio-QA-docs-and-cheatsheets) |
-| **Neuroscience and Behavior study** | Personal collection: Neuroscience, Neurotechnology, Neurorights | [📁 Repo](https://github.com/qakaio/Neuroscience-and-Behavior) |
-| **Portfolio Website** | Live portfolio with all projects, games, and pixel art | [🌐 qakaio.github.io](https://qakaio.github.io) |
-| **Null and Void** | My online open-source QA course | [🌐 nullandvoid.github.io](https://nullandvoid.github.io) |
-
----
-
 ## 🛠 Tech Stack & Expertise
 
 | Category | Technologies |

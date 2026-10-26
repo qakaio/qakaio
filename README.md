@@ -36,16 +36,15 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
-## 🛠 Featured Portfolio Repositories
+## 🛠 My Latest Projects
 
-| Repository | Description | Tech Stack | CI/CD | Reports |
-|------------|-------------|------------|-------|---------|
-| **[Playwright JS](https://github.com/qakaio/Kaio-QA-portfolio-playwright)** | Complete Playwright + JS framework with CI/CD, Page Objects, API testing, HTML + Allure reports | `JavaScript` `Playwright` `GitHub Actions` | ![Playwright CI](https://github.com/qakaio/Kaio-QA-portfolio-playwright/actions/workflows/playwright.yml/badge.svg) | [HTML](https://qakaio.github.io/Kaio-QA-portfolio-playwright/index.html) • [Allure](https://qakaio.github.io/Kaio-QA-portfolio-playwright/allure-report/) |
-| **[API Testing](https://github.com/qakaio/Kaio-QA-portfolio-API-testing)** | API testing with Playwright + TypeScript + Postman (JSONPlaceholder) | `TypeScript` `Playwright` `Postman` | ![API Tests](https://github.com/qakaio/Kaio-QA-portfolio-API-testing/actions/workflows/api-tests.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-API-testing/allure-report/) |
-| **[Playwright AI](https://github.com/qakaio/Kaio-QA-portfolio-playwright-AI-testing)** | AI-powered testing: selector generation, test data, failure analysis, self-healing | `TypeScript` `Playwright` `OpenAI` | ![AI Tests](https://github.com/qakaio/Kaio-QA-portfolio-playwright-AI-testing/actions/workflows/ai-tests.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-playwright-AI-testing/allure-report/) |
-| **[Selenium](https://github.com/qakaio/Kaio-QA-portfolio-selenium)** | Selenium WebDriver + Mocha/Chai + Page Object Model (SauceDemo) | `JavaScript` `Selenium` `Mocha` | ![Selenium CI](https://github.com/qakaio/Kaio-QA-portfolio-selenium/actions/workflows/selenium.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-selenium/allure-report/) |
-| **[JMeter](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter)** | JMeter load testing with baselines, SLI/SLO, throughput analysis | `JMeter` `XML` `Reports` | ![JMeter CI](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter/actions/workflows/jmeter.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-performance-test-jmeter/allure-report/) |
-| **[Pentest](https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection)** | DVWA SQL Injection pentest: UNION-based, Python PoC, remediation | `Python` `DVWA` `OWASP ZAP` | ![Pentest CI](https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection/actions/workflows/pentest.yml/badge.svg) | [Allure](https://qakaio.github.io/Kaio-QA-portfolio-pentest-dvwa-sql-injection/allure-report/) |
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| **[⭐ My Latest Project: Complete E2E Playwright + JS - Rampz Store](https://github.com/qakaio/full-qa-portfolio-playwright)** | A complete QA portfolio showcasing end-to-end testing of the Rampz Store using Playwright. Covers test planning, test case design, functional and UI testing, automated end-to-end scenarios, assertions, test reporting, and CI/CD integration, demonstrating a structured approach to software quality and defect prevention | `JavaScript` `Playwright` `GitHub Actions` `CI/CD` `API Testing` `Allure Reports` |
+| **[Playwright JS - Automation Exercise](https://github.com/qakaio/Kaio-QA-portfolio-playwright)** | Complete Playwright + JS framework with CI/CD, Page Objects, API testing, HTML + Allure reports | `JavaScript` `Playwright` `GitHub Actions` |
+| **[JMeter](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter)** | JMeter load testing with baselines, SLI/SLO, throughput analysis | `JMeter` `XML` `Reports` | ![JMeter CI](https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter/actions/workflows/jmeter.yml/badge.svg) |
+| **[Pentest](https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection)** | DVWA SQL Injection pentest: UNION-based, Python PoC, remediation | `Python` `DVWA` `OWASP ZAP` |
+| **More Projects** | You can find my older projects by checking my pinned repositories | `Test Automation General` |
 
 ---
 

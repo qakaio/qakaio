@@ -36,7 +36,7 @@ I design and build **scalable test automation architectures** that multiply engi
 
 ---
 
-## 🛠 My Latest Projects
+## 🛠 My QA Portfolio
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
